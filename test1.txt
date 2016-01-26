@@ -1,2 +1,2 @@
 test1_up
-siwtch branch is slow
+siwtch branch is slowly
